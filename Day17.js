@@ -21,3 +21,4 @@ function primeFactorization  (n){
 const n = 18;
 const result = primeFactorization(n);
 console.log(result);
+
